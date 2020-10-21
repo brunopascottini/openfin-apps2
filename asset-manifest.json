@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/openfin-apps/static/css/main.5e9ff030.chunk.css",
+    "main.js": "/openfin-apps/static/js/main.56cb7464.chunk.js",
+    "main.js.map": "/openfin-apps/static/js/main.56cb7464.chunk.js.map",
+    "runtime-main.js": "/openfin-apps/static/js/runtime-main.d98edcba.js",
+    "runtime-main.js.map": "/openfin-apps/static/js/runtime-main.d98edcba.js.map",
+    "static/js/2.b2f75442.chunk.js": "/openfin-apps/static/js/2.b2f75442.chunk.js",
+    "static/js/2.b2f75442.chunk.js.map": "/openfin-apps/static/js/2.b2f75442.chunk.js.map",
+    "index.html": "/openfin-apps/index.html",
+    "precache-manifest.9ba45111232ed4d130fb3665f8b062eb.js": "/openfin-apps/precache-manifest.9ba45111232ed4d130fb3665f8b062eb.js",
+    "service-worker.js": "/openfin-apps/service-worker.js",
+    "static/css/main.5e9ff030.chunk.css.map": "/openfin-apps/static/css/main.5e9ff030.chunk.css.map",
+    "static/media/cancel.b6512207.svg": "/openfin-apps/static/media/cancel.b6512207.svg",
+    "static/media/close.777b93c6.svg": "/openfin-apps/static/media/close.777b93c6.svg",
+    "static/media/done.e249914e.svg": "/openfin-apps/static/media/done.e249914e.svg",
+    "static/media/step_back.64de3847.svg": "/openfin-apps/static/media/step_back.64de3847.svg",
+    "static/media/step_next.ebcf00f4.svg": "/openfin-apps/static/media/step_next.ebcf00f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98edcba.js",
+    "static/js/2.b2f75442.chunk.js",
+    "static/css/main.5e9ff030.chunk.css",
+    "static/js/main.56cb7464.chunk.js"
+  ]
+}
