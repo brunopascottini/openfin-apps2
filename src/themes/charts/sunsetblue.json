@@ -1,0 +1,32 @@
+{
+  "backgroundColor": "rgb(48, 48, 63)",
+  "axisText": {
+    "color": "#fff",
+    "fontSize": "8px",
+    "fontWeight": 500,
+    "fontFamily": "Montserrat"
+  },
+  "axisLines": {
+    "strokeWidth": null,
+    "stroke": "#888"
+  },
+  "gridLines": {
+    "strokeWidth": 0.5,
+    "stroke": "#aaa"
+  },
+  "labels": {
+    "color": "#fff",
+    "fontSize": "16px",
+    "fontWeight": null,
+    "fontFamily": null
+  },
+  "selectionHighlight": "#fff",
+  "gradients": {
+    "sequential": ["rgb(255, 207, 154)", "rgb(215, 115, 0)"],
+    "diverging": ["#e42d21", "#e8e0bb", "#56d73c"]
+  },
+  "viewbox": {
+    "backgroundFill": "rgba(255,255,255,0.15)",
+    "selectionStroke": "#fff"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "backgroundColor": "#fff",
+  "axisText": {
+    "color": "#555",
+    "fontSize": "10px",
+    "fontWeight": 500,
+    "fontFamily": "Montserrat"
+  },
+  "axisLines": {
+    "strokeWidth": null,
+    "stroke": "#888"
+  },
+  "gridLines": {
+    "strokeWidth": 0.5,
+    "stroke": "#aaa"
+  },
+  "labels": {
+    "color": "#000",
+    "fontSize": "16px",
+    "fontWeight": null,
+    "fontFamily": null
+  },
+  "gradients": {
+    "sequential": "Blues",
+    "diverging": ["#e42d21", "#e8e0bb", "#56d73c"]
+  }
+}

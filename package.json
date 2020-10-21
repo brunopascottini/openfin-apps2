@@ -1,0 +1,50 @@
+{
+  "name": "qlik-sense-clone_context",
+  "homepage": "https://brunopascottini.github.io/openfin-apps",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "^5.14.2",
+    "d3-lasso": "0.0.5",
+    "enigma.js": "^2.6.3",
+    "lodash.isequal": "^4.5.0",
+    "lodash.throttle": "^4.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.2.0",
+    "styled-components": "^4.4.1"
+  },
+  "devDependencies": {
+    "execa": "^4.0.0",
+    "fs-extra": "^8.1.0",
+    "gh-pages": "^3.1.0",
+    "gulp": "^4.0.2",
+    "gulp-git": "^2.10.0",
+    "semver": "^7.1.1",
+    "yargs": "^15.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "publish": "gulp template",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
